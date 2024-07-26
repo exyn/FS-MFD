@@ -1,0 +1,4 @@
+## Mechanics
+
+Project including the files needed to generate compatible files for 3D-printing of the enclosure as well as
+already exported files to be used directly to print it.
