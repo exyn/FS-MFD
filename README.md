@@ -12,4 +12,4 @@ Accompanying 3D-printable enclosure.<br>
 
 Simple code to use as a general Gamepad USB device available.
 <br><br>
-![image](https://github.com/exyn/FS-MFD/blob/main/Misc/IMG_20240726_184938577.jpg)
+![image](https://github.com/exyn/FS-MFD/blob/main/Misc/IMG_20240726_184938577_small.jpg)
