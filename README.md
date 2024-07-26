@@ -1,9 +1,21 @@
 # FS-MFD
 Simple USB Flight-Simulator MFD designed with KiCad.
-Easy to get components and everything* through-hole to make it easy to solder.
+
+Easy to get components and everything through-hole to make it easy to solder.
+
+
+Features:
+
+	20 x Tactile Switches (Buttons)
+
+	2 x Rotary Encoder (with push-button)
+
+	2 x Toggle Switch/Slide Switch
+
+	Raspberry Pi Pico control board/USB interface
+
+
 
 Simple code to use as a general Gamepad USB device.
-Accompanying 3D-printable enclosure.
 
-* The Raspberry Pi Pico used to control all input and act as a general Gamepad
-  USB device, can either be soldered with headers or directly to the board.
+Accompanying 3D-printable enclosure.
