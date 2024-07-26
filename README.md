@@ -3,8 +3,11 @@ Simple USB Flight-Simulator MFD designed with KiCad.
 
 Easy to get components and everything through-hole to make it easy to solder.
 
+Accompanying 3D-printable enclosure.
 
-Features:
+
+
+*Features:*
 
 	20 x Tactile Switches (Buttons)
 
@@ -16,6 +19,4 @@ Features:
 
 
 
-Simple code to use as a general Gamepad USB device.
-
-Accompanying 3D-printable enclosure.
+Simple code to use as a general Gamepad USB device available.
