@@ -1,6 +1,6 @@
 ## FS-MFD
 Simple USB Flight-Simulator MFD designed with KiCad. Cheaper than commercial alternatives and every possibility to customise.<br>
-Easy to get components and everything through-hole to make it easy to solder.<br>
+Easy to get components, and everything through-hole, to make it easy to solder.<br>
 Accompanying 3D-printable enclosure.<br>
 
 #### Features:
