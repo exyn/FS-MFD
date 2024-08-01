@@ -14,4 +14,5 @@ Accompanying 3D-printable enclosure.<br>
 <br>
 For any questions send an e-mail to gustaf.lindstroem@gmail.com. There will be more projects to come.
 <br><br>
+
 ![image](https://github.com/exyn/FS-MFD/blob/main/Misc/IMG_20240726_184938577_small.jpg)
