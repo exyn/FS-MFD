@@ -10,7 +10,8 @@ Accompanying 3D-printable enclosure.<br>
 * 2 x Rotary Encoder (with push-button)
 * 2 x Toggle Switch/Slide Switch
 * Raspberry Pi Pico control board/USB interface
-
-Simple code to use as a general Gamepad USB device available.
+* Simple project to use as a general Gamepad USB device available as source and binary.
+<br>
+For any questions send an e-mail to gustaf.lindstroem@gmail.com!
 <br><br>
 ![image](https://github.com/exyn/FS-MFD/blob/main/Misc/IMG_20240726_184938577_small.jpg)
