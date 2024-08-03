@@ -14,8 +14,8 @@ Accompanying 3D-printable enclosure.<br>
 <br>
 For any questions send an e-mail to gustaf.lindstroem@gmail.com. There will be more projects to come.<br>
 There might be a future version of this board with display (as an option maybe). It's designed with VR use in mind first though.<br>
-Also if anyone has any specific request there is no problem for me to design and route a pcb as long as it will be licensed open source.<br>
-Should anyone use our material please give a simple credit by linking. Everything is open to use, modify etc. of course though.
+Should you have any specific modification request send it to me and I'll see what I can do.<br>
+If our material is used for anything please give a simple credit by linking here. Everything is open to use, modify etc. of course though.
 <br><br>
 
 ![image](https://github.com/exyn/FS-MFD/blob/main/Misc/IMG_20240726_184938577_small.png)
