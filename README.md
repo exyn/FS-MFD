@@ -14,6 +14,7 @@ Accompanying 3D-printable enclosure.<br>
 * Simple SW project for use as a general Gamepad USB device available as source and binary.
 <br>
 For any questions send an e-mail to gustaf.lindstroem@gmail.com. There will be more projects to come.<br>
+There might be a future version of this board with display (as an option maybe). It's designed with VR use in mind first though.<br>
 Also if anyone has any specific request there is no problem for me to design and route a pcb as long as<br>
 it will be licensed open source.
 <br><br>
